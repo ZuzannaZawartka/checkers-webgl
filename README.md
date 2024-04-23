@@ -45,10 +45,5 @@ A simple checkers game created using WebGL technology and powered by Express.
 - Express
 - WebGL-enabled web browser.
 
-## Author
 
-[Zuzanna Zawartka](https://github.com/ZuzannaZawartka)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
